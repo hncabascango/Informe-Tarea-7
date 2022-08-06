@@ -39,6 +39,50 @@ SECCIÓN 13–1 El inductor básico
 
 
 
+22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
+
+(a) 10 µs
+
+(b) 20 µs
+(c) 30 µs
+
+![image](https://user-images.githubusercontent.com/105606339/183234095-a4ce1017-6282-47f7-b1bc-c7747c119d0c.png)
+
+24. Repita el problema 22 para los siguientes instantes:
+(a) 65 µs
+
+(b) 75 µs
+(c) 85 µs
+
+26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?
+
+
+(b) ¿Cuál es la corriente justo antes de que la onda cuadrada se reduzca a cero?
+
+
+28. (a) ¿Cuál es la corriente en el inductor 1.0 µs después de que se cierra el interruptor en la figura 13-50?
+
+(b) ¿Cuál es la corriente después de que transcurren 5t?
+
+
+
+30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.
+
+![image](https://user-images.githubusercontent.com/105606339/183234271-ef6486f2-8370-45af-8991-c30c9a0666ac.png)
+
+![image](https://user-images.githubusercontent.com/105606339/183234280-545dc3d0-ed1d-410b-9cd8-f5b31bd4b3f8.png)
+
+![image](https://user-images.githubusercontent.com/105606339/183234286-7e876055-793e-4b03-a341-d6440eac20e7.png)
+
+
+
+32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?
+
+![image](https://user-images.githubusercontent.com/105606339/183234306-ac097dd1-61b2-4d8a-bcde-6f7ffcedd8c4.png)
+
+
+
+
 
 
 
