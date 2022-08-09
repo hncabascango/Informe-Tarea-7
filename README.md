@@ -5,35 +5,76 @@ SECCIÓN 13–1 El inductor básico
 2. Convierta los siguientes valores en microhenries:
 
 (a) 300 mH
+
+![image](https://user-images.githubusercontent.com/105606339/183583901-18df1cb2-ecfb-4f45-af08-2861d8c1b50c.png)
+
 (b) 0.08 H
+
+![image](https://user-images.githubusercontent.com/105606339/183583930-de284006-0550-4cfa-bd46-36026a772c0c.png)
+
 (c) 5 mH
+
+![image](https://user-images.githubusercontent.com/105606339/183583955-464c8186-203c-4420-84c8-772dace6422b.png)
+
 (d) 0.00045 mH
+
+![image](https://user-images.githubusercontent.com/105606339/183584008-64ce0101-b9e2-4dd5-a45d-1894101f1078.png)
 
 4. Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?
 
+![image](https://user-images.githubusercontent.com/105606339/183585451-743f47da-62fe-459e-bda8-9bd6ce8f3367.png)
 
 6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10 x 10^5 m^2 y tiene longitud de 0.05 m? La permeabilidad del núcleo es de 1.2 x 10^6 H/m.
 
-8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.
+![image](https://user-images.githubusercontent.com/105606339/183588073-a0083765-720d-4a02-8240-f0b3b105b7bb.png)
 
 10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4π  x 10^6 H/m). Determine la inductancia de la bobina que se formó.
 
-
 ![image](https://user-images.githubusercontent.com/105606339/182219841-57001e80-0b81-40ec-95aa-fcca66f254db.png)
 
+![image](https://user-images.githubusercontent.com/105606339/183592569-be77b3e4-15f8-4b85-bad1-0bb7e459cf6f.png)
 
 12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH.¿Cuánta inductancia adicional necesita?
+
+![image](https://user-images.githubusercontent.com/105606339/183594129-ec8c5b21-f157-4fd6-b1db-7497552afe97.png)
 
 14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?
 
 ![image](https://user-images.githubusercontent.com/105606339/182219998-1b2bf442-9785-402a-a842-41ca683df229.png)
 
+Posición 1 
+
+![image](https://user-images.githubusercontent.com/105606339/183595599-ffe3fcf2-41d8-4bcd-97be-12ba37d99d36.png)
+
+Posición 2 
+
+![image](https://user-images.githubusercontent.com/105606339/183595631-556000f5-cb85-4acd-a123-ae36f69bd9f1.png)
+
+Posición 3
+
+![image](https://user-images.githubusercontent.com/105606339/183595662-1858f265-b9d0-4e49-951b-3989daa115aa.png)
+
+Posición 4
+
+![image](https://user-images.githubusercontent.com/105606339/183595685-95dbf20d-bbac-4dcf-97f1-e26b36f041dc.png)
+
 16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH.¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
 
 18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.
 
-
 ![image](https://user-images.githubusercontent.com/105606339/182220151-659c0315-6f65-43cb-bacb-884f66a70931.png)
+
+(a)
+
+![image](https://user-images.githubusercontent.com/105606339/183597461-de7f2b0c-1540-4c43-a33f-bc885d6b0bf2.png)
+
+(b)
+
+![image](https://user-images.githubusercontent.com/105606339/183597942-81d2def1-969c-4271-8569-c85a44682e43.png)
+
+(c)
+
+![image](https://user-images.githubusercontent.com/105606339/183598296-3160fb71-342d-4fa6-b8f7-28c130424ce1.png)
 
 20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:
 
