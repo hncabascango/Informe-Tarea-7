@@ -129,6 +129,8 @@ Posición 4
 
 
 
+28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma
+del devanado secundario al devanado primari
 
 
 
