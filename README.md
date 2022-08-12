@@ -175,12 +175,9 @@ La relación de vueltas debe ser de 1:3
 ![image](https://user-images.githubusercontent.com/105606339/184291583-14b024f0-2c7d-4091-934b-740db5c3f961.png)
 
 
-
-
 22. ¿Cuál es la eficiencia del transformador en el problema 21?
 
-
-
+![image](https://user-images.githubusercontent.com/105606339/184294185-29cdab8f-12a7-4302-b46c-cf21a613a9e1.png)
 
 28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primari
 
@@ -197,6 +194,20 @@ Sección 2
 Sección 3
 
 ![image](https://user-images.githubusercontent.com/105606339/184291355-2ca1aa0e-3a5e-4774-b519-2a35cbe8dd84.png)
+
+30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación
+
+![image](https://user-images.githubusercontent.com/105606339/184294400-f748d7d6-c37b-4e61-842c-e767af799e8f.png)
+
+Para que los primarios operen con 240 V deben ser conectados en serie.
+
+
+
+
+
+
+
+
 
 
 
