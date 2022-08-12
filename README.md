@@ -195,14 +195,27 @@ Sección 3
 
 ![image](https://user-images.githubusercontent.com/105606339/184291355-2ca1aa0e-3a5e-4774-b519-2a35cbe8dd84.png)
 
-30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación
+30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación
 
 ![image](https://user-images.githubusercontent.com/105606339/184294400-f748d7d6-c37b-4e61-842c-e767af799e8f.png)
 
 Para que los primarios operen con 240 V deben ser conectados en serie.
 
+Sección 1
 
+![image](https://user-images.githubusercontent.com/105606339/184296728-16c74461-65bf-4530-8251-d4607b9c7d13.png)
 
+Sección 2
+
+![image](https://user-images.githubusercontent.com/105606339/184296749-7dc62cbf-1aba-4473-bf1e-da39b077e789.png)
+
+Sección 3
+
+![image](https://user-images.githubusercontent.com/105606339/184296775-d90e0331-7c54-4ee5-a6d4-26f8c19589fa.png)
+
+Sección 4
+
+![image](https://user-images.githubusercontent.com/105606339/184296794-3c979627-1015-4303-8991-731cde683ba2.png)
 
 
 
