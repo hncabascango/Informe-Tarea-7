@@ -124,15 +124,79 @@ Posición 4
 
 
 
+2. Determine el coeficiente de acoplamiento cuando LM = 1 µH, L1 = 8 µH, y L2 = 2 µH.
+
+![image](https://user-images.githubusercontent.com/105606339/184293127-1782e335-6a74-4567-a09f-f62d86527faf.png)
+
+4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas
+vueltas debe haber en el devanado secundario?
+
+Para duplicar el voltaje debe haber 500 vueltas en el devanado secundario.
+
+6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
+
+La relación de vueltas debe ser de 1:3
+
+8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
+
+![image](https://user-images.githubusercontent.com/105606339/184292695-2af58044-fb01-47f9-b799-eaff3ea4614e.png)
+
+10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?
+
+![image](https://user-images.githubusercontent.com/105606339/184292543-21587b7e-d98c-4f98-85ac-ba7b10d5239a.png)
+
+12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
+
+![image](https://user-images.githubusercontent.com/105606339/184292186-a9d891c8-2b63-4a7e-b34f-56a2cfb22711.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184292281-48bf7d4b-af93-4ac7-bcd3-81dd93e00ed7.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184292204-fbe0153b-708c-498d-bed2-371f232d52f3.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184292291-835b444c-2739-4dd8-b3bf-4df07496392b.png)
+
+
+14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?
+
+![image](https://user-images.githubusercontent.com/105606339/184291889-9f1301ac-6f80-4c8f-af1a-8691a4113e96.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184292099-e298e0c7-103c-4626-b1cd-8fbd7af54505.png)
+
+16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
+
+![image](https://user-images.githubusercontent.com/105606339/184291732-40c41668-480f-47fa-97d3-f7856cdeb81b.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184291799-958a8c9d-f6ec-42d5-8238-d91f4c8c395b.png)
+
+18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Ω.
+
+![image](https://user-images.githubusercontent.com/105606339/184291658-0b630a2e-8e02-4d03-a6a6-b0c1faf63580.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184291583-14b024f0-2c7d-4091-934b-740db5c3f961.png)
 
 
 
 
-
-28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma
-del devanado secundario al devanado primari
+22. ¿Cuál es la eficiencia del transformador en el problema 21?
 
 
+
+
+28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primari
+
+![image](https://user-images.githubusercontent.com/105606339/184291145-197eca03-a150-403e-82f8-0ec99d739443.png)
+
+Sección 1
+
+![image](https://user-images.githubusercontent.com/105606339/184291319-b3e9b89d-29e2-4c94-8a71-61913c33f9b9.png)
+
+Sección 2
+
+![image](https://user-images.githubusercontent.com/105606339/184291341-51adbfbf-4f65-412f-813a-fb1ac850b85f.png)
+
+Sección 3
+
+![image](https://user-images.githubusercontent.com/105606339/184291355-2ca1aa0e-3a5e-4774-b519-2a35cbe8dd84.png)
 
 
 
