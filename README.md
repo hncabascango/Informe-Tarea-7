@@ -4,7 +4,12 @@
 
 ### Objetivo General
 
+Analizar la definición de las bobinas y los transformadores logrando con esto la comprensión de las aplicaciones así como su funcionamiento en diferentes circuitos eléctricos.
+
 ### Objetivos Específicos
+- Identificar inductores dispuestos en serie y en paralelo para posteriormente aplicar este concepto en la resolución de ejercicios.
+- Analizar los diferentes tipos de transformadores existentes e identificar sus diferencias.
+- Aplicar todos los conceptos estudiados en el capítulo 13 y 14 para la resolución correcta de los problemas planteados.
 
 ## MARCO TEÓRICO
 
@@ -230,9 +235,15 @@ Sección 4
 ![image](https://user-images.githubusercontent.com/105606339/184296794-3c979627-1015-4303-8991-731cde683ba2.png)
 
 ## CONCLUSIONES
+- La inductancia total en serie es igual a la suma de las inductancias individuales, y la inductancia total en paralelo es igual a la suma de los recíprocos de las inductancias individuales.
+- Existen transformadores elevadores y reductores, los elevadores son aquellos donde el voltaje secuandario es más grande que el voltaje primario y los reductores son aquellos en los que el voltaje secundario es menor que el voltaje primario.
+- Después de estudiar todos los conceptos básicos de las bobinas y los transformadores se ha logrado el desarrollo correcto de todos los ejercicios propuestos.
 
 ## BIBLIOGRAFÍA
 
+Vargas, L., & Maldonado, E. (13 de Marzo de 2012). MID. Obtenido de https://www.sistemamid.com/panel/uploads/biblioteca/1/349/1259/6572/6589/77754.pdf
+
+Floyd, TL (2007). Principios de circuitos electricos. México: EDUCACIÓN DE LA PERSONA.
 
 
 
