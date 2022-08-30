@@ -85,6 +85,12 @@ Posición 4
 
 ![image](https://user-images.githubusercontent.com/105606339/183595685-95dbf20d-bbac-4dcf-97f1-e26b36f041dc.png)
 
+16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH.¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
+
+![image](https://user-images.githubusercontent.com/105606339/187346212-28bfb596-bd7a-428b-9943-c8e7fd510d74.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187346267-0bc486a0-2f8d-4e2d-925a-293845c7f464.png)
+
 18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.
 
 ![image](https://user-images.githubusercontent.com/105606339/182220151-659c0315-6f65-43cb-bacb-884f66a70931.png)
@@ -103,13 +109,45 @@ Posición 4
 
 SECCIÓN 13–4 Inductores en circuitos de cd
 
+20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:
+
+![image](https://user-images.githubusercontent.com/105606339/187346557-38ae8063-264c-444a-bfa7-f73e6c380ccd.png)
+
+(a)
+![image](https://user-images.githubusercontent.com/105606339/187346595-4ffbaf9f-6166-4244-a053-8b0859bd4aae.png)
+
+(b)
+
+![image](https://user-images.githubusercontent.com/105606339/187346631-268b0b1d-aef3-49d3-b275-652b11fc5217.png)
+
+(c)
+
+![image](https://user-images.githubusercontent.com/105606339/187346648-057ff337-c7b4-476a-9fec-14e4640c92ac.png)
+
+22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
+
 ![image](https://user-images.githubusercontent.com/105606339/183234095-a4ce1017-6282-47f7-b1bc-c7747c119d0c.png)
 
+(b) 20 µs
+![image](https://user-images.githubusercontent.com/105606339/187346778-87130863-0756-4dd0-bda6-be4f6049adbb.png)
+
+(c) 30 µs
+
+![image](https://user-images.githubusercontent.com/105606339/187346792-a01ce6e2-b7d5-4631-9f67-2a5b8b26f71e.png)
+
 24. Repita el problema 22 para los siguientes instantes:
+
 (a) 65 µs
 
+![image](https://user-images.githubusercontent.com/105606339/187346926-55fbb5b9-2284-4b0e-9bb7-7c82527ced5a.png)
+
 (b) 75 µs
+
+![image](https://user-images.githubusercontent.com/105606339/187346942-0766a43a-febd-442b-bf50-42b841b4644f.png)
+
 (c) 85 µs
+
+![image](https://user-images.githubusercontent.com/105606339/187346964-f6a7d44a-e660-43aa-8d3c-67ab7e5a07f0.png)
 
 SECCIÓN 13–5 Inductores en circuitos de ca
 
@@ -124,6 +162,16 @@ SECCIÓN 13–5 Inductores en circuitos de ca
 32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?
 
 ![image](https://user-images.githubusercontent.com/105606339/183234306-ac097dd1-61b2-4d8a-bcde-6f7ffcedd8c4.png)
+
+34. En la figura 13-51, determine la potencia reactiva.
+
+![image](https://user-images.githubusercontent.com/105606339/187347150-be681070-fa27-42ed-9c0e-1896e9b992f3.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187347173-826860c1-e000-48d1-a01c-ae78a48a58e0.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187347187-c7b83864-d514-4f0f-9ba7-6c3277f1bd34.png)
+
+![image](https://user-images.githubusercontent.com/105606339/187347203-b235e24d-40cf-401c-b3ee-2b2c49ff138e.png)
 
 ### Capítulo 14
 
@@ -188,11 +236,37 @@ SECCIÓN 14–6 Igualación de impedancia
 
 ![image](https://user-images.githubusercontent.com/105606339/184291583-14b024f0-2c7d-4091-934b-740db5c3f961.png)
 
+20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Ω. Especifique elnúmero de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas
+
+![image](https://user-images.githubusercontent.com/105606339/187347469-363f09c5-bc90-429d-a1f2-4cbfd222e96c.png)
+
+Posición 1:
+
+![image](https://user-images.githubusercontent.com/105606339/187347509-92b97f30-bf85-4ada-95a0-f4e9ef36a2cf.png)
+
+Posición 2:
+
+![image](https://user-images.githubusercontent.com/105606339/187347555-0a926e28-7923-4132-b0d9-e703e732eaba.png)
+
+Posición 3:
+
+![image](https://user-images.githubusercontent.com/105606339/187347579-4a6c1b1a-5141-4a24-be8e-a9002ee3dbbc.png)
+
 SECCIÓN 14–7 Características de un transformador no ideal
 
 22. ¿Cuál es la eficiencia del transformador en el problema 21?
 
 ![image](https://user-images.githubusercontent.com/105606339/184294185-29cdab8f-12a7-4302-b46c-cf21a613a9e1.png)
+
+26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz. 
+
+(a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
+
+![image](https://user-images.githubusercontent.com/105606339/187347722-f78d6462-d24c-468a-9cc6-ec92a75d386b.png)
+
+(b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
+
+![image](https://user-images.githubusercontent.com/105606339/187347747-6747614d-bea5-444b-90cf-962741184d05.png)
 
 28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primari
 
